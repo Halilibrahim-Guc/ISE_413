@@ -357,3 +357,5 @@ CartController dan kopyala yapıştır yaptığının üzerini düzenliyor
 18:15) layout içerisinde linkleri koymayı unutma!!!
 21:35) FavoritesController içerisindeki Get action u view de List olarak adlandırdığı için, return ederken "List" yazmamız gerekiyor.
 28:20) EZShopAtılım örneğinde bunu yapmamış, burada görmüş olmuşuz
+
+https://chatgpt.com/share/67802a1f-1d14-800d-bee6-e3bbc1e71813
